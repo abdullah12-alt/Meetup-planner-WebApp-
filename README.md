@@ -6,18 +6,6 @@ web application that makes organizing and participating in meetups a breeze. The
 Organizers can effortlessly create and manage their meetups through the admin portal, while participants can easily register for meetups and RSVP to the events they're interested in using their email.
 
 
-
-## Key Features
-
-Key features of the Django Meetup Planner include:
-
-1: Creating and managing meetups: Users can easily create and manage their meetups, set the location, and specify the date and time.
-
-2: Registration and RSVPs: Participants can register for meetups via email and RSVP to the event, streamlining the registration process and making it easier for organizers to keep track of attendees.
-
-3: Location search: Users can search for meetups based on their location and find events that are happening nearby, making it convenient for them to attend events that interest them.
-
-
 ## Key Features
 
 Key features of the Django Meetup Planner include:
